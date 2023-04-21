@@ -1,3 +1,5 @@
+This is a project made for the ICS 32 at University of California, Irvine
+
 Workout Project 4
 
 This program uses the Holodex API to create a visualization for the duration and frequency a Virtual YouTube Streams
